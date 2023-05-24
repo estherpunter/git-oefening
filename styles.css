@@ -13,3 +13,8 @@ ul {
     text-decoration: underline;
     color: lightblue;
 }
+
+p {
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+}
